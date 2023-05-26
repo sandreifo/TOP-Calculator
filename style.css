@@ -21,6 +21,7 @@ body {
     width: 300px;
     padding: 20px;
     border-radius: 25px;
+    margin-top: 20px;
 }
 
 p {
@@ -62,6 +63,6 @@ button.operand {
     background-color: brown;
 }
 
-button.AC {
+button.ac {
     background-color: rgb(164, 98, 0);
 }
