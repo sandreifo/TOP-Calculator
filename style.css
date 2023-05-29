@@ -39,12 +39,14 @@ p {
     margin: 0;
     height: 70px;
     color: gray;
+    overflow: hidden;
 }
 
 .result {
     height: 70px;
     margin: 0;
     font-size: 35px;
+    overflow: hidden;
 }
 
 button {
@@ -60,6 +62,18 @@ button.cero {
 }
 
 button.operand {
+    background-color: brown;
+}
+
+button.del {
+    background-color: brown;
+}
+
+button.percentage {
+    background-color: brown;
+}
+
+button.equal {
     background-color: brown;
 }
 
